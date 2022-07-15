@@ -16,7 +16,7 @@ Official doc:
 ### Option 1 (automatic)
 You can setup your Sui full node in minutes by using automated script below
 ```
-wget -O sui.sh https://raw.githubusercontent.com/fathoni6/gulonodes/main/sui/sui.sh && chmod +x sui.sh && ./sui.sh
+wget -O sui.sh https://raw.githubusercontent.com/fathoni6/gulonodes/main/sui_devnet/sui.sh && chmod +x sui.sh && ./sui.sh
 ```
 
 ## Make tests
@@ -70,7 +70,7 @@ Enter your node IP into https://node.sui.zvalid.com/
 
 ## Update Sui Fullnode version
 ```
-wget -qO update.sh https://raw.githubusercontent.com/fathoni6/gulonodes/main/sui/update/update.sh && chmod +x update.sh && ./update.sh
+wget -qO update.sh https://raw.githubusercontent.com/fathoni6/gulonodes/main/sui_devnet/update/update.sh && chmod +x update.sh && ./update.sh
 ```
 
 ## Usefull commands
